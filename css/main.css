@@ -8,3 +8,8 @@ img{
   max-width:320px;
   border-radius: 50%;
 }
+h1{
+  color: tomato;
+    font-size: 4.75rem;
+    font-family: arial;
+}
